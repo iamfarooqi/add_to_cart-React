@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+.cart1 {
+
+ 
+  margin: 50px;
+  color: rgb(151, 151, 151);
+
+ 
+}
+
+.cart2 {
+  width: 320px;
+  padding: 10px;
+  border: 2px solid grey;
+  margin-right: 2%;
+  /* box-shadow: 10px 10px 5px greenyellow; */
+  width: 300px;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  box-shadow: 2px 3px 3px grey;
+  text-align: center;
+  margin-top: 2%;
+ 
+}
+
+.orders{
+  display: flex;
+}
